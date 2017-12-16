@@ -46,15 +46,11 @@ endif
 
 # /app
 PRODUCT_PACKAGES += \
-    CalendarGooglePrebuilt \
-    Chrome \
     FaceLock \
     GoogleContactsSyncAdapter \
     GoogleTTS \
-    Photos \
     PrebuiltDeskClockGoogle \
     talkback \
-    CalculatorGooglePrebuilt \
     LatinIMEGooglePrebuilt \
     GoogleCalendarSyncAdapter \
     GoogleExtShared
@@ -81,7 +77,6 @@ PRODUCT_PACKAGES += \
     PrebuiltGmsCore \
     SetupWizard \
     Velvet \
-    GoogleContacts \
     GoogleExtServices
 
 # /symlinks
